@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17.0.2-ea">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="321.0" minWidth="10.0" prefWidth="306.0" />
+    <ColumnConstraints hgrow="SOMETIMES" maxWidth="294.0" minWidth="10.0" prefWidth="294.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints maxHeight="278.0" minHeight="0.0" prefHeight="129.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="280.0" minHeight="2.0" prefHeight="146.0" vgrow="SOMETIMES" />
+    <RowConstraints maxHeight="126.0" minHeight="10.0" prefHeight="124.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+   <children>
+      <Label prefHeight="19.0" prefWidth="109.0" text="Label" />
+   </children>
+</GridPane>
